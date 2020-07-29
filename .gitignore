@@ -1,0 +1,6 @@
+efg.apis
+.env
+tmp/*
+go.mod
+go.sum
+tmp
